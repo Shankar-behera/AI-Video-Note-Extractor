@@ -368,6 +368,4 @@ The app works in demo mode without any API keys — it returns pre-built mock no
 
 ---
 
-## 📄 License
 
-MIT — build freely, deploy freely.
