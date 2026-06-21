@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Backend runtime
+uploads/
+outputs/
+*.mp3
+*.mp4
+*.wav
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env.local
+
+# Misc
+.DS_Store
+*.log
+.vscode/
+.idea/
