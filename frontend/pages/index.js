@@ -102,7 +102,7 @@ export default function Landing() {
             Start Extracting Notes →
           </button>
           <a
-            href="https://github.com"
+            href="https://github.com/Shankar-behera/AI-Video-Note-Extractor.git"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 rounded-xl text-base font-medium transition-all"
